@@ -1,9 +1,9 @@
 {
-  "name": "Уголь — учёт продаж",
-  "short_name": "Уголь",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#f4f7fb",
-  "theme_color": "#0f172a",
-  "icons": []
+  "name":"Charcoal Sales — учёт угля",
+  "short_name":"Charcoal Sales",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f3f6fb",
+  "theme_color":"#10233f",
+  "icons":[]
 }
